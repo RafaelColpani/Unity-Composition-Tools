@@ -15,22 +15,6 @@ The package provides customizable composition overlays, allowing you to evaluate
 
 ---
 
-## Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Getting Started](#-getting-started)
-- [Composition Guides](#-composition-guides)
-- [Customization](#-customization)
-- [Debugging](#-debugging)
-- [Compatibility](#-compatibility)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## Overview
 
 Composition Tools provides a centralized workspace for creating and managing visual guides inside the Unity Editor.
