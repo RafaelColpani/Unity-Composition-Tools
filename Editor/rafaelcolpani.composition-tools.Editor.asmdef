@@ -1,0 +1,19 @@
+
+{
+    "name": "rafaelcolpani.composition-tools.Editor",
+    "rootNamespace": "CompositionTools.Editor",
+    "references": [
+        "rafaelcolpani.composition-tools"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "rafaelcolpani.composition-tools",
+    "version": "1.0.0",
+    "displayName": "Composition Tools",
+    "description": "Composition guides for Unity Game View, including Rule of Thirds, Letterbox and Action Safe.",
+    "unity": "6000.3",
+    "author": {
+        "name": "Rafael Colpani",
+        "url": "https://github.com/RafaelColpani"
+    }
+}
